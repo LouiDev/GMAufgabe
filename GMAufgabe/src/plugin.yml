@@ -1,0 +1,9 @@
+main: de.louidev.main.Main
+name: GMAufgabe
+api-version: 1.12
+author: LouiDev
+version: 1.0
+
+commands:
+   seriennummer:
+      description: Hauptbefehl
